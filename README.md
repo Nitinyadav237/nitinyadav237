@@ -1,7 +1,8 @@
-![Nitin_yadav Dev](https://github.com/Nitinyadav237/nitinyadav237/assets/113238477/612aeddc-7e1a-4036-83a2-15688b8d1167)
+![image](https://github.com/Nitinyadav237/nitinyadav237/assets/113238477/b808ae4e-1011-4d65-b232-fa7e2d17dcb6)
+
 
 <h1 align="center">Hi 👋, I'm Nitin Yadav</h1>
-<h3 align="center">I am an enthusiastic frontend developer based in Chennai, India, deeply passionate about crafting engaging and dynamic user interfaces.</h3>
+<h3 align="center">I am an enthusiastic Full-Stack developer based in India, deeply passionate about crafting engaging and dynamic user interfaces.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Nitinyadav237/nitinyadav237/assets/113238477/4f61b185-e470-4e4e-a8d7-327f41eaea1a">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinyadav237&label=Profile%20views&color=0e75b6&style=flat" alt="nitinyadav237" /> </p>
 
